@@ -1,0 +1,64 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="408"
+  height="10"
+  preserveAspectRatio="xMidYMid meet"
+>
+  <defs>
+    <path
+      id="a4ZSkUq5Zi"
+      d="m97.89,15c2.21,0 4,-1.79 4,-4c0,-0.8 0,0.8 0,0c0,-2.21 -1.79,-4 -4,-4c-18.4,0 -69.6,0 -88,0c-2.21,0 -4,1.79 -4,4c0,0.8 0,-0.8 0,0c0,2.21 1.79,4 4,4c18.4,0 69.6,0 88,0z"
+    ></path>
+  </defs>
+  <g>
+    <g id="svg_12">
+      <g id="svg_11">
+        <use
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="-5.89"
+          y="-6"
+          id="svg_10"
+          fill="#3a84ff"
+          xlink:href="#a4ZSkUq5Zi"
+        ></use>
+      </g>
+    </g>
+    <g id="svg_9">
+      <g id="svg_8">
+        <use
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="98.11"
+          y="-6"
+          id="svg_7"
+          fill="#3a84ff"
+          xlink:href="#a4ZSkUq5Zi"
+        ></use>
+      </g>
+    </g>
+    <g id="svg_6">
+      <g id="svg_5">
+        <use
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="202.11"
+          y="-6"
+          id="svg_4"
+          fill="#3a84ff"
+          xlink:href="#a4ZSkUq5Zi"
+        ></use>
+      </g>
+    </g>
+    <g id="svg_1">
+      <g id="svg_2">
+        <use
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="306.11"
+          y="-6"
+          id="svg_3"
+          fill="#3a84ff"
+          xlink:href="#a4ZSkUq5Zi"
+        ></use>
+      </g>
+    </g>
+  </g>
+</svg>

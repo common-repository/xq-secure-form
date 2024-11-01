@@ -1,0 +1,48 @@
+<style>
+	.tooltip {
+	  position: relative;
+	  display: inline-block;
+	}
+
+	.tooltip .tooltiptext {
+	  visibility: hidden;
+	  width:447px;
+	  background-color: #f0f9ff;
+	  font-family: Avenir Next, Sans Serif; 
+	  font-size: 18px; 
+	  font-stretch: normal; 
+	  font-style: normal; 
+	  line-height: normal; 
+	  letter-spacing: normal; 
+	  color: #1166bb;
+	  text-align: left;
+	  border: 1px solid #1166bb;
+	  border-radius: 6px;
+	  padding: 10px ;
+	  position: absolute;
+	  z-index: 1;
+
+	}
+
+	.tooltip:hover .tooltiptext {
+	  visibility: visible;
+	}
+	@media only screen and (max-width: 1325px) {
+		.tooltip .tooltiptext {
+	        top: 55px;
+			margin-left: -450px;
+			margin-top: 15px;
+		 }
+
+
+	}
+</style>
+
+<div class="tooltip">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="66px" height="75px" viewBox="0 0 66 66" enable-background="new 0 0 66 70" xml:space="preserve">  <image id="image0" width="25" height="25" x="25" y="39" xlink:href="data:image/png;base64,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"></image>
+</svg>
+
+<span class="tooltiptext">
+   The user is redirected to this page after succesful form submission.<br/>
+  </span>
+</div>                         
